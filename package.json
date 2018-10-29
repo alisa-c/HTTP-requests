@@ -1,0 +1,22 @@
+{
+  "name": "scriptinghttprequests",
+  "version": "1.0.0",
+  "description": "'Scripting HTTP Requests with the Request Package Assignment'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisa-c/HTTP-requests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisa-c/HTTP-requests/issues"
+  },
+  "homepage": "https://github.com/alisa-c/HTTP-requests#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
